@@ -1,0 +1,14 @@
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.DOMAIN\bin\Debug\net6.0\InvoiceSystem.DOMAIN.deps.json
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.DOMAIN\bin\Debug\net6.0\InvoiceSystem.DOMAIN.runtimeconfig.json
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.DOMAIN\bin\Debug\net6.0\InvoiceSystem.DOMAIN.dll
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.DOMAIN\bin\Debug\net6.0\InvoiceSystem.DOMAIN.pdb
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.DOMAIN\obj\Debug\net6.0\InvoiceSystem.DOMAIN.csproj.AssemblyReference.cache
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.DOMAIN\obj\Debug\net6.0\InvoiceSystem.DOMAIN.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.DOMAIN\obj\Debug\net6.0\InvoiceSystem.DOMAIN.AssemblyInfoInputs.cache
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.DOMAIN\obj\Debug\net6.0\InvoiceSystem.DOMAIN.AssemblyInfo.cs
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.DOMAIN\obj\Debug\net6.0\InvoiceSystem.DOMAIN.csproj.CoreCompileInputs.cache
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.DOMAIN\obj\Debug\net6.0\InvoiceSystem.DOMAIN.dll
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.DOMAIN\obj\Debug\net6.0\refint\InvoiceSystem.DOMAIN.dll
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.DOMAIN\obj\Debug\net6.0\InvoiceSystem.DOMAIN.pdb
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.DOMAIN\obj\Debug\net6.0\InvoiceSystem.DOMAIN.genruntimeconfig.cache
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.DOMAIN\obj\Debug\net6.0\ref\InvoiceSystem.DOMAIN.dll

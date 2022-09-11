@@ -1,0 +1,15 @@
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.INFRASTRUCTURE\bin\Debug\net6.0\InvoiceSystem.INFRASTRUCTURE.deps.json
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.INFRASTRUCTURE\bin\Debug\net6.0\InvoiceSystem.INFRASTRUCTURE.dll
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.INFRASTRUCTURE\bin\Debug\net6.0\InvoiceSystem.INFRASTRUCTURE.pdb
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.INFRASTRUCTURE\bin\Debug\net6.0\InvoiceSystem.DOMAIN.dll
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.INFRASTRUCTURE\bin\Debug\net6.0\InvoiceSystem.DOMAIN.pdb
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.INFRASTRUCTURE\obj\Debug\net6.0\InvoiceSystem.INFRASTRUCTURE.csproj.AssemblyReference.cache
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.INFRASTRUCTURE\obj\Debug\net6.0\InvoiceSystem.INFRASTRUCTURE.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.INFRASTRUCTURE\obj\Debug\net6.0\InvoiceSystem.INFRASTRUCTURE.AssemblyInfoInputs.cache
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.INFRASTRUCTURE\obj\Debug\net6.0\InvoiceSystem.INFRASTRUCTURE.AssemblyInfo.cs
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.INFRASTRUCTURE\obj\Debug\net6.0\InvoiceSystem.INFRASTRUCTURE.csproj.CoreCompileInputs.cache
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.INFRASTRUCTURE\obj\Debug\net6.0\InvoiceSystem.INFRASTRUCTURE.csproj.CopyComplete
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.INFRASTRUCTURE\obj\Debug\net6.0\InvoiceSystem.INFRASTRUCTURE.dll
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.INFRASTRUCTURE\obj\Debug\net6.0\refint\InvoiceSystem.INFRASTRUCTURE.dll
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.INFRASTRUCTURE\obj\Debug\net6.0\InvoiceSystem.INFRASTRUCTURE.pdb
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.INFRASTRUCTURE\obj\Debug\net6.0\ref\InvoiceSystem.INFRASTRUCTURE.dll

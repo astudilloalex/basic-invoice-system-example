@@ -1,0 +1,17 @@
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.APPLICATION\bin\Debug\net6.0\InvoiceSystem.APPLICATION.deps.json
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.APPLICATION\bin\Debug\net6.0\InvoiceSystem.APPLICATION.dll
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.APPLICATION\bin\Debug\net6.0\InvoiceSystem.APPLICATION.pdb
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.APPLICATION\bin\Debug\net6.0\InvoiceSystem.DOMAIN.dll
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.APPLICATION\bin\Debug\net6.0\InvoiceSystem.INFRASTRUCTURE.dll
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.APPLICATION\bin\Debug\net6.0\InvoiceSystem.INFRASTRUCTURE.pdb
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.APPLICATION\bin\Debug\net6.0\InvoiceSystem.DOMAIN.pdb
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.APPLICATION\obj\Debug\net6.0\InvoiceSystem.APPLICATION.csproj.AssemblyReference.cache
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.APPLICATION\obj\Debug\net6.0\InvoiceSystem.APPLICATION.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.APPLICATION\obj\Debug\net6.0\InvoiceSystem.APPLICATION.AssemblyInfoInputs.cache
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.APPLICATION\obj\Debug\net6.0\InvoiceSystem.APPLICATION.AssemblyInfo.cs
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.APPLICATION\obj\Debug\net6.0\InvoiceSystem.APPLICATION.csproj.CoreCompileInputs.cache
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.APPLICATION\obj\Debug\net6.0\InvoiceSystem.APPLICATION.csproj.CopyComplete
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.APPLICATION\obj\Debug\net6.0\InvoiceSystem.APPLICATION.dll
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.APPLICATION\obj\Debug\net6.0\refint\InvoiceSystem.APPLICATION.dll
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.APPLICATION\obj\Debug\net6.0\InvoiceSystem.APPLICATION.pdb
+D:\Users\Alex\Documents\FullstackProjects\InvoiceSystem\Backend\InvoiceSystem\InvoiceSystem.APPLICATION\obj\Debug\net6.0\ref\InvoiceSystem.APPLICATION.dll
